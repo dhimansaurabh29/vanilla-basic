@@ -1,3 +1,3 @@
-# Vanilla JavaScript App
+# DEMO
 
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
+Assignment-1 Develop and deploy a web application-based login using Microsoft Azure,
